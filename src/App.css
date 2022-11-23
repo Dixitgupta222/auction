@@ -8,3 +8,31 @@
     background-color: #171717;
     height: 100vh;
 }
+.seperator {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    opacity: 0.5;
+    display: flex;
+    position: relative;
+    margin: 48px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.seperator::before {
+    content: '';
+    width: 40%;
+    height: 1px;
+    background: white;
+    position: relative;
+    display: block;
+}
+
+.seperator::after {
+    content: '';
+    width: 40%;
+    height: 1px;
+    background: white;
+    position: relative;
+    display: block;
+}

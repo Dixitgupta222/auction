@@ -18,6 +18,7 @@ function Signup() {
           <div className="bg-[#303030] rounded-[15px] lg:rounded-[30px] font-semibold text-[20px] lg:text-[30px] capitalize text-white lg:py-[30px] py-[15px] flex items-center justify-center cursor-pointer my-4">
             create account
           </div>
+          <div className="seperator">or</div>
           <div className="bg-[#303030] rounded-[15px] lg:rounded-[30px] font-semibold text-[20px] lg:text-[30px] capitalize text-white lg:py-[30px] py-[15px] flex items-center justify-center cursor-pointer my-4">
             Login
           </div>
