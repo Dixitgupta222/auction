@@ -123,7 +123,7 @@ function BidItem() {
               <div className="relative w-full h-2 bg-[#303030] rounded">
                 <div className="w-3/4 bg-[#1C5BFF] h-full"></div>
               </div>
-              <div className="p-4 lg:pt-4 flex fixed bottom-0 bg-[#202020] w-full lg:bg-auto lg:relative left-0 lg:gap-[76px]">
+              <div className="p-4 lg:pt-4 flex fixed bottom-0 bg-[#202020] w-full lg:bg-transparent lg:relative left-0 lg:gap-[76px]">
                 <div className=" relative py-[20px] text-[#ffffff7c] font-semibold text-[18px] md:text-[25px]">
                   <p>Your Bid</p>
                   <p className="text-white pt-3">₹30,000.00</p>
